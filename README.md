@@ -1,4 +1,4 @@
-# web-Tutorial
+# python calculator
 
 # Simple Python Calculator
 
